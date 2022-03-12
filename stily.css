@@ -1,0 +1,29 @@
+li{
+    color: greenyellow;/*Меняет цвет букв*/
+    font-size: 20px;/*Меняет размер букв*/
+}
+h2{
+    color: maroon;
+    font-size: 30px;
+}
+.red{/*Ставим вначале точку, если обращаемся к классу*/
+    background: red;/*Заливает фон цветом*/
+}
+.orange{
+    background: orange;
+}
+.yellow{
+    background: yellow
+}
+.green{
+    background: green;
+}
+.blue{
+    background: blue;
+}
+.mediumblue{
+    background: mediumblue;
+}   
+.purple{
+    background: purple;
+}
